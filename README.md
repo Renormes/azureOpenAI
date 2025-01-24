@@ -46,7 +46,4 @@ Aqui estão alguns prints que ilustram o processo:
 
 Este projeto demonstrou a eficácia do Microsoft Copilot na análise e descrição de imagens. A tecnologia mostrou-se promissora para diversas aplicações práticas.
 
-## Link do Repositório
-
-Link para o repositório
 
